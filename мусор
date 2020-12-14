@@ -14,3 +14,12 @@ print('C:\Program Files\Python')
 #C:\Program Files\Python
 print('C:\Program Files\Python\ ')
 #C:\Program Files\Python\
+#переменные
+firstname="one"
+secondname="two"
+print(some) #без пробелов
+#onetwo
+'some'+'test'
+#'sometest'
+firstname*3
+#'oneoneone'
