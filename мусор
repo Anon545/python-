@@ -10,3 +10,7 @@ print ("abc")
 #"I don't like this"
 'I don\'t like'
 #"I don't like"
+print('C:\Program Files\Python')
+#C:\Program Files\Python
+print('C:\Program Files\Python\ ')
+#C:\Program Files\Python\
