@@ -1,0 +1,4 @@
+numb1=input ('Enter first num:')
+numb2=input ('Enter second num:')
+abc=int(numb1)*int(numb2)
+print ('result is', abc)
