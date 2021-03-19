@@ -1,3 +1,4 @@
+#калькулятор с вводом-выводом на экран
 numb1=input ('Enter first num:')
 numb2=input ('Enter second num:')
 abc=int(numb1)*int(numb2)
