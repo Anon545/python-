@@ -1,0 +1,9 @@
+#Тройные кавычки
+#Triple quotes
+
+string_with_3_quotes="""this is 
+3 "triple 
+quotes" """
+an_string_with_3_quotes='''this is 3 'triple quotes' '''
+print (string_with_3_quotes)
+print (an_string_with_3_quotes)
