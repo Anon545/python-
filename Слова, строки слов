@@ -1,0 +1,13 @@
+gretting = "hello"
+first_name = 'jack'
+last_name = 'white'
+znak="!"
+probel=" "
+print (gretting+probel+first_name+" "+last_name+znak)
+
+whole_sentence=gretting+probel+first_name+" " \
+               +last_name+znak
+print(whole_sentence)
+
+long_string="this is a long string"
+print (long_string)
