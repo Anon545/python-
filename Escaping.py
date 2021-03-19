@@ -5,8 +5,7 @@ another_string0='i want to learn "python'
 print (another_string0)
 #i'm a aaaaaaaa
 #i want to learn "python
-#два пустых абзаца для разрыва сплошной стены текста
-enter='\n'
+enter='\n' #два пустых абзаца для разрыва сплошной стены текста
 print(enter)
 #
 #escaping \ - чтобы можно было ставить кавычки в выводимом тексте.
@@ -25,6 +24,9 @@ string_with_new_line='helllo \n \rMy name is A' #отсутствие отсту
 print (string_with_new_line)
 #	Hello! 
 #	I'm aaaaa!
+#
+enter1='\t' #один пустой абзац для разрыва сплошной стены текста
+print(enter1)
 #
 numbers='1\t2345'     #отступы Tab в строке между символами
 print (numbers)
