@@ -1,0 +1,6 @@
+print('Входные данные')
+N = int(input())
+K = int(input())
+print('Остаток от деления')
+print(K % N)
+print()
