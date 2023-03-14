@@ -25,7 +25,7 @@ print (string_with_new_line)
 string_with_new_line='helllo \n \rMy name is A' #отсутствие отступа перед второй строкой
 print (string_with_new_line)
 #	Hello! 
-#	I'm aaaaa!
+#	My name is A!
 #
 enter1='\t' #один пустой абзац для разрыва сплошной стены текста
 print(enter1)
